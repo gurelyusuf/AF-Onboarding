@@ -26,9 +26,11 @@ git clone https://github.com/gurelyusuf/AF-Onboarding.git
 
 ## Screenshots
 
-<img src="Resources/1.PNG" alt="Screenshot 1" width="195">
-<img src="Resources/2.PNG" alt="Screenshot 2" width="195">
-<img src="Resources/3.PNG" alt="Screenshot 3" width="195">
+<div style="display: flex; justify-content: space-between;">
+  <img src="Resources/1.PNG" alt="Screenshot 1" width="45%" />
+  <img src="Resources/2.PNG" alt="Screenshot 2" width="45%" />
+  <img src="Resources/3.PNG" alt="Screenshot 3" width="45%" />
+</div>
 
 ### Feedback
 
